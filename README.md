@@ -5,6 +5,7 @@ Sign language recognition is a crucial application of computer vision and deep l
 Built using **TensorFlow, Keras, and OpenCV**, this project focuses on accessibility applications for people with hearing and speech impairments.  
 
 ASL(American Sign Language) is used train and test the dataset
+<img width="589" height="499" alt="image" src="https://github.com/user-attachments/assets/278f9917-db12-4366-ae82-58b267a2d333" />
 
 ---
 
@@ -38,7 +39,9 @@ The dataset I used was made by me which  is not uploaded to GitHub due to size l
 Download a similar dataset from: [asl_image_recognition_deep_learning (https://www.kaggle.com/code/cardocodes/asl-image-recognition-deep-learning/input)))  
 
 After downloading, place the dataset inside the `data/` folder:  
-SignLanguageRecognition/data/
+SignLanguageRecognition/data/   
+//(structure)
+27 folders for A to Z and Space
 
 ---
 
@@ -63,3 +66,9 @@ Install dependencies
 pip install -r requirements.txt
 Run the project
 python main.py
+```
+## Result
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/1cf72678-4296-4017-817d-db81bdad2d75" />
+<img width="681" height="635" alt="image" src="https://github.com/user-attachments/assets/d8efaf74-a184-45e9-a5ce-f46e7c883326" />
+
+
